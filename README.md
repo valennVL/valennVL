@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=header&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=180&section=header&animation=fadeIn&fontColor=fff" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -7,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&color=FF4FD8&center=true&vCenter=true&width=650&height=50&lines=I'm+a+student+of+Analysis+and+System" alt="I'm a student of Analysis and System" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=FF4FD8&center=true&vCenter=true&width=800&height=60&lines=I'm+a+student+of+Analysis+and+System" alt="I'm a student of Analysis and System" />
 </h1>
 
 # Hello 👋, I'm Valentina Velastegui
