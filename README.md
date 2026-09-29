@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=FF4FD8&center=true&vCenter=true&width=800&height=60&lines=I'm+a+Informatics+Engineering+Student+Web Developer+Tech Enthusiast" alt="I'm a student of Analysis and System" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=FF4FD8&center=true&vCenter=true&width=900&height=60&lines=I'm+an+Informatics+Engineering+Student;Web+Developer;Tech+Enthusiast" alt="Informatics Engineering Student & Web Developer" />
 </h1>
 
 # Hello 👋, I'm Valentina Velastegui
