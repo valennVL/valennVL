@@ -161,14 +161,3 @@ Currently working toward AWS learning milestones and certification.
 </p>
 
 ---
-
-## 💫 Current Focus
-
-```text
-Web Development     █████████████████░░░
-JavaScript          ████████████████░░░░
-Python              ██████████████░░░░░░
-Databases           ████████████████░░░░
-MongoDB             ████████████░░░░░░░░
-AWS / Cloud         ███████████░░░░░░░░░
-Data & Power BI     █████████████░░░░░░░
